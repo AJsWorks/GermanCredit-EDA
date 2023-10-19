@@ -4,7 +4,7 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of the German 
 # Dataset
 The German Credit Dataset consists of 1,000 credit samples, with each of them having 9 features such as Age, Sex, Job, Housing, Saving/Checking account, Purpose, etc., that describe the category and characteristics of each borrower. The dataset has 1000 rows and 10 columns.
 
-Contents of the dataset:
+# Contents of the dataset:
 ➢ Age (numeric)
 ➢ Sex (text: male, female)
 ➢ Job (numeric: 0 - unskilled and non-resident, 1 - unskilled and resident, 2 - skilled, 3 - highly skilled)
